@@ -20,6 +20,7 @@
 
 #include <pthread.h>
 #include <Foundation/Foundation.h>
+#include <exception>
 
 //------------------------------------------------------------------------
 namespace Steinberg {

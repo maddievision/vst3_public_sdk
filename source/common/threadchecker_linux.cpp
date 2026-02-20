@@ -20,6 +20,7 @@
 
 #include <cstdio> 
 #include <pthread.h>
+#include <exception>
 
 //------------------------------------------------------------------------
 namespace Steinberg {
